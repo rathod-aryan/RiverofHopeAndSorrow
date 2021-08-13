@@ -73,6 +73,6 @@ app.get("/about", (req, res) => {
 });
 app.use("/projects", projectRouter);
 
-app.listen(process.env.PORT || 3000, process.env.IP, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log(`Server started at http://localhost:3000/`);
 });
