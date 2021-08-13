@@ -8,13 +8,14 @@ const morgan = require("morgan");
 const projectRouter = require("./routes/project");
 
 // Import database populator and depopulator
-const { populateDB, clearDB } = require('./populate.js');
+const { populateDB, clearDB } = require("./populate.js");
 
 // Initializing the app
 const app = express();
 
 // Setting up mongoose connection
-const uri = "mongodb+srv://Prakhar:PrakharRajpali@cluster0.jsium.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const uri =
+  "mongodb+srv://Prakhar:PrakharRajpali@cluster0.jsium.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 // "mongodb://localhost:27017/brwd";
 
 mongoose
@@ -64,14 +65,14 @@ app.use("/Exhibition", express.static(`${__dirname}/Exhibition`));
 // populateDB();
 
 // Setting up the routes
-app.get('/', (req, res) => {
-    res.render('home');
+app.get("/", (req, res) => {
+  res.render("home");
 });
-app.get('/about', (req, res) => {
-    res.render('about');
+app.get("/about", (req, res) => {
+  res.render("about");
 });
-app.use('/projects', projectRouter);
+app.use("/projects", projectRouter);
 
 app.listen(3000, process.env.IP, () => {
-    console.log(`Server started at http://localhost:3000/`);
+  console.log(`Server started at http://localhost:3000/`);
 });
