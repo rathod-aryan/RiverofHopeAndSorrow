@@ -11,14 +11,14 @@
 }
 
 body {
-  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   color: #333;
   font-size: 14px;
   line-height: 20px;
   cursor: auto;
   overflow-x: hidden;
-  scrollbar-width: thin;
-  scrollbar-color: #67606c #dbd8d1;
+  scrollbar-width: thin !important;
+  scrollbar-color: #67606c #dbd8d1 !important;
 }
 
 ::-webkit-scrollbar {
@@ -47,18 +47,26 @@ a {
 }
 
 .body {
-  overflow: hidden;
+  /* overflow: hidden; */
+  /* overflow-y: scroll; */
   height: auto;
   background-color: #f4f2f1;
-  background-image: url('../images/Frame-33784.png');
+  background-image: url("../images/Frame-33784.png");
   background-position: 0% 0%;
   background-size: 100vw 100vh;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-attachment: fixed;
   cursor: auto;
   -o-object-fit: none;
   object-fit: none;
+  /* 
+  scrollbar-width: thin;
+  scrollbar-color: #67606c #dbd8d1; */
 }
+
+/* .body::-webkit-scrollbar {
+  width: 0px;
+} */
 
 .marqueebg {
   position: fixed;
@@ -411,7 +419,7 @@ a {
   padding-right: 0px;
   padding-left: 0px;
   background-color: transparent;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #67606c;
   font-size: 18px;
   font-style: italic;
@@ -499,7 +507,7 @@ a {
 .arrowland {
   width: 16.26px;
   height: 21.04px;
-  background-image: url('../images/arrow.svg');
+  background-image: url("../images/arrow.svg");
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -724,7 +732,7 @@ a {
 }
 
 .outreachtext.textoptions {
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-size: 20px;
   letter-spacing: 0.07em;
 }
@@ -758,7 +766,7 @@ a {
   position: relative;
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-size: 72px;
   line-height: 120%;
   font-weight: 400;
@@ -1009,9 +1017,7 @@ a {
   transition: -webkit-transform 50ms ease;
   transition: transform 50ms ease;
   transition: transform 50ms ease, -webkit-transform 50ms ease;
-
 }
-
 
 .item {
   position: relative;
@@ -1052,10 +1058,10 @@ a {
 .photoframe {
   position: relative;
   z-index: 0;
-  max-height: 33vw; 
-  max-width: 50vw; 
-  height: auto; 
-  width: auto; 
+  max-height: 33vw;
+  max-width: 90vw;
+  height: auto;
+  width: auto;
   display: block;
   margin-bottom: 24px;
   padding-bottom: 0px;
@@ -1066,10 +1072,10 @@ a {
 }
 
 .photoframe.mainphoto {
-  max-height: 33vw; 
-  max-width: 50vw; 
-  height: auto; 
-  width: auto; 
+  max-height: 33vw;
+  max-width: 90vw;
+  height: auto;
+  width: auto;
   display: block;
 }
 
@@ -1079,7 +1085,7 @@ a {
   top: auto;
   right: auto;
   bottom: auto;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #67606c;
   line-height: 21px;
 }
@@ -1162,7 +1168,7 @@ a {
 
 .heading-2 {
   display: block;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #1e1e1e;
   font-size: 28px;
   line-height: 150%;
@@ -1280,7 +1286,7 @@ a {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  background-image: url('../images/arrow.svg');
+  background-image: url("../images/arrow.svg");
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1290,7 +1296,7 @@ a {
 }
 
 .arrowlanding:hover {
-  background-image: url('../images/arrow.svg');
+  background-image: url("../images/arrow.svg");
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1447,7 +1453,7 @@ a {
   max-width: 373px;
   margin-left: 12px;
   padding-left: 0px;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #1e1e1e;
   font-size: 28px;
   line-height: 150%;
@@ -1458,7 +1464,7 @@ a {
   position: relative;
   width: 31px;
   height: 21px;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #1e1e1e;
   line-height: 150%;
   text-align: center;
@@ -1675,7 +1681,7 @@ a {
 
 .text-block-12 {
   margin-bottom: 0px;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #1e1e1e;
   font-size: 24px;
   line-height: 150%;
@@ -1684,7 +1690,7 @@ a {
 
 .text-block-13 {
   margin-bottom: 48px;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   color: #1e1e1e;
   font-size: 32px;
   line-height: 150%;
@@ -1726,7 +1732,7 @@ a {
   -webkit-flex: 0 0 auto;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  font-family: 'Playfair Display', sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-size: 24px;
 }
 
@@ -1966,18 +1972,18 @@ a {
   }
 
   .photoframe {
-    max-height: 600px; 
-    max-width: 50vw; 
-    height: auto; 
-    width: auto; 
+    max-height: 600px;
+    max-width: 80vw;
+    height: auto;
+    width: auto;
     display: block;
   }
 
   .photoframe.mainphoto {
-    max-height: 600px; 
-    max-width: 90vw; 
-    height: auto; 
-    width: auto; 
+    max-height: 600px;
+    max-width: 80vw;
+    height: auto;
+    width: auto;
     display: block;
   }
 
@@ -2500,4 +2506,3 @@ a {
   -ms-grid-row-align: center;
   align-self: center;
 }
-
