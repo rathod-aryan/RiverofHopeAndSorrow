@@ -1073,7 +1073,7 @@ a {
 
 .photoframe.mainphoto {
   max-height: 33vw;
-  max-width: 90vw;
+  max-width: 50vw;
   height: auto;
   width: auto;
   display: block;

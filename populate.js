@@ -130,7 +130,7 @@ const newData = [
     name: "Xiawei Liao",
     photos: [
       "/Exhibition/Xiawei Liao/Xiawei 1 - Arundhati Deka.png",
-      "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.png",
+      "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.jpg",
     ],
     title: `Living with the river`,
     writeup: `I have spent a week during the last summer driving along the river, from the Yarlung Tsangpo Grand Canyon to the Lhasa city. I was not only awed by the magnificent nature along the river, the beautiful starry sky in the night, I was also touched by the different stories and believes that I heard along the way, from the people who have lived with such nourishing water, mountains, trees and animals for decades. I was taught about the different burial styles of the Tibetan people, including the celestial burial, water burial and so forth. The idea that touched me the most was that, I was told, Tibetans do not eat that much fish and birds because they believe that their ancestors live within them. I texted this to my friends and my friend replied: I wonder if that embeds any traditional thoughts for biodiversity conservation! Yes, I wonder too.`,
@@ -479,13 +479,13 @@ const newData = [
   {
     name: "Devadeep Gupta",
     photos: [
-      "/Exhibition/Devadeep G/1.png",
       "/Exhibition/Devadeep G/2.png",
+      "/Exhibition/Devadeep G/1.png",
       "/Exhibition/Devadeep G/3.png",
       "/Exhibition/Devadeep G/4.png",
       "/Exhibition/Devadeep G/5.png",
     ],
-    title: `Wall-building as a collective exercise and activation tool for community gathering and exchange, while addressing the problem which is stigmatized with the identities of the said communities.`,
+    title: `Wall building as a collective exercise and activation tool for community gathering and exchange, while addressing the problem which is stigmatized with the identities of the said communities.`,
     writeup: `As monsoons urge on the raging waters of the mad river, lands of the river-banks fall unceasingly to the relentless. The high, concrete walls on banks of the urban areas hold a fight. The wall defies the water. The villages witness the wrath as lands and wells and fields are engulfed to the unsated watery hunger. \n“We have to build a wall too.”\n “Yes, we do.”\n “Like the ones in the city. They protect the shops and the cycles, the poles and the dogs.”\n “We will make a wall too.”\n “Yes, we do.”\n The idea to create a wall presented itself directly out of the circumstantial influences in the site. The surrounding shapes of the land added to the inspiration, reflecting themselves in the form and material of the intervention.\nThe absurdity of a grass wall used to stop a relentless force of nature expands upon the complex relationship of the community with the river, and their risky existence along its banks. The work contextualizes the irony of the river appearing as a threat to riverine communities, and at the same time, facilitating these literal straws of grass, upon which the villagers of Baladmari Char 1 hang on to during days of peril. \nThe site for wall-making becomes a point of gathering and exchange through dialogue, and extends itself as a symbolic statement in the context of the social and cultural history of Baladmari. \nUndoubtedly, most of the wall is washed away within few hours. A section which remains is morphed into a temporal exhibition space of photographs made around the site during the process of wall-making. The re-activation of the space is intended to generate an impression of the action that outlasts its temporary being.`,
     bio: `My artistic practices come into play as an exploration of perspectives with an emphasis on absurdities of the everyday reality of my subjects. The focus is placed on long-term artistic research that tries to seek a balance between the people and the landscape. The form of my actions tries to expand, and at the same time contest the widespread blanket understandings associated with the current state of certain social aspects, the outtakes of which are shared through the mediums of installations, photographs, and videos.`,
     twitter: "",
