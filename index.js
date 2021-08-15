@@ -8,7 +8,7 @@ const morgan = require("morgan");
 const projectRouter = require("./routes/project");
 
 // Import database populator and depopulator
-const { populateDB, clearDB } = require("./populate.js");
+const { populateDB, clearDB, clearAllComments } = require("./populate.js");
 
 // Initializing the app
 const app = express();
@@ -63,6 +63,9 @@ app.use("/Exhibition", express.static(`${__dirname}/Exhibition`));
 
 // Populate Database.
 // populateDB();
+
+//Clear all comments
+// clearAllComments();
 
 // Setting up the routes
 app.get("/", (req, res) => {

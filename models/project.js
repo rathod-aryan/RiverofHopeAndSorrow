@@ -5,7 +5,7 @@ const projectSchema = new mongoose.Schema({
   photos: [
     {
       type: String,
-    }
+    },
   ],
   title: String,
   writeup: String,
@@ -13,7 +13,7 @@ const projectSchema = new mongoose.Schema({
   twitter: String,
   instagram: String,
   email: String,
-  index: Number
+  index: Number,
 });
 
 module.exports = mongoose.model("Project", projectSchema);

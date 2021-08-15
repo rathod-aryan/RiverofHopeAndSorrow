@@ -177,6 +177,30 @@
             </div>
             <div class="div-block-22"></div>
         </div>
+
+        <form action="/projects/<%= project.name %>" method="POST" style="z-index: 104;">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="Email">
+            <br>
+
+            <label for="name">Name: </label>
+            <input type="text" name="name" id="name">
+            <br>
+
+            <label for="comment">Comment: </label>
+            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+            <br>
+
+            <input type="submit">
+        </form>
+
+
+        <% comments.forEach(comment => { %>
+            <p><%= comment.email %></p>
+            <p><%= comment.name %></p>
+            <p><%= comment.comment %></p>
+        <% }) %>
+
         <script src="/js/jquery.js" crossorigin="anonymous"></script>
         <script src="/js/webflow.js" type="text/javascript"></script>
         <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->

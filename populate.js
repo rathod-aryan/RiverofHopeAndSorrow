@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const Project = require("./models/project.js");
-
+const Comment = require("./models/comments.js");
 const newData = [
   {
     name: "Deepshikha Pegu",
@@ -725,6 +725,15 @@ module.exports.clearDB = () => {
     if (err) throw err;
     else {
       console.log("Database cleared.");
+    }
+  });
+};
+
+module.exports.clearAllComments = () => {
+  Comment.deleteMany({}, (err) => {
+    if (err) throw err;
+    else {
+      console.log("Comments cleared");
     }
   });
 };
