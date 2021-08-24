@@ -333,7 +333,7 @@ a {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
+  display: none;
   width: auto;
   height: auto;
   -webkit-box-pack: center;
@@ -1013,10 +1013,10 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  -webkit-transition: -webkit-transform 50ms ease;
-  transition: -webkit-transform 50ms ease;
-  transition: transform 50ms ease;
-  transition: transform 50ms ease, -webkit-transform 50ms ease;
+  -webkit-transition: -webkit-transform 25ms ease;
+  transition: -webkit-transform 25ms ease;
+  transition: transform 25ms ease;
+  transition: transform 25ms ease, -webkit-transform 25ms ease;
 }
 
 .item {

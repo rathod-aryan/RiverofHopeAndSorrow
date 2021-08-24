@@ -95,8 +95,13 @@
             <div class="div-block-24">
                 <div class="div-block-31">
                     <div class="div-block-29">
-                        <a data-w-id="b986e8e1-e957-a503-1637-80b9ec81e7c7" style="opacity:0.5" href="/projects"
+                        <a data-w-id="b986e8e1-e957-a503-1637-80b9ec81e7c7" style="opacity:0.5" onclick="goBack()"
                             class="link-3">Back</a>
+                            <script>
+                                function goBack() {
+                                    window.history.back();
+                                }
+                            </script>
                     </div>
                 </div>
                 <div class="div-block-23">
@@ -200,6 +205,8 @@
             <p><%= comment.name %></p>
             <p><%= comment.comment %></p>
         <% }) %>
+
+
 
         <script src="/js/jquery.js" crossorigin="anonymous"></script>
         <script src="/js/webflow.js" type="text/javascript"></script>
