@@ -2288,7 +2288,7 @@ a {
   }
 
   .div-block-32 {
-    min-width: 90vw;
+    max-width: 90vw;
   }
 
   .div-block-33 {
