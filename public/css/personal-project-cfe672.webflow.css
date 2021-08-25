@@ -1668,7 +1668,7 @@ a {
   top: 0%;
   right: auto;
   bottom: auto;
-  z-index: 7;
+  z-index: 200;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1708,7 +1708,7 @@ a {
   top: 0%;
   right: auto;
   bottom: auto;
-  z-index: 6;
+  z-index: 199;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
