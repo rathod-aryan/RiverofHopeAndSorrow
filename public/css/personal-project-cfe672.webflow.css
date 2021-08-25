@@ -1656,7 +1656,7 @@ a {
 }
 
 .smallphoto {
-  max-height: 200px;
+  max-height: 150px;
   max-width: 200px;
   padding-right: 16px;
   padding-left: 16px;
@@ -2249,6 +2249,7 @@ a {
 
   .div-block-21 {
     position: relative;
+    flex-direction: column-reverse;
     width: 90vw;
     padding-top: 20px;
     padding-bottom: 100px;
@@ -2472,7 +2473,9 @@ a {
   }
 
   .image-26 {
-    min-width: 10px;
+    display: block;
+    max-height: 150px;
+    max-width: 200px;
   }
 
   .div-block-42 {
