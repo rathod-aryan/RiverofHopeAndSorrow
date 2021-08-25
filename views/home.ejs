@@ -16,8 +16,10 @@
       <a href="#" data-w-id="ec0e3791-3aa1-66e8-0f37-908fcfdaa002" aria-current="page" class="brand w-nav-brand w--current"><img src="images/placeholder.svg" loading="lazy" alt="">
         <div data-w-id="ec0e3791-3aa1-66e8-0f37-908fcfdaa004" class="navtext">Brahmaputra Water Diplomacy</div>
       </a>
-      <nav role="navigation" class="nav-menu w-nav-menu">
+      <nav role="navigation" class="nav-menu w-nav-menu" >
+       
         <a href="/about" data-w-id="ec0e3791-3aa1-66e8-0f37-908fcfdaa007" class="nav-link navtext w-nav-link">About US</a>
+        
       </nav>
       <div class="menu-button w-nav-button">
         <div class="w-icon-nav-menu"></div>
@@ -34,10 +36,126 @@
     <div class="div-block-19"><img src="images/Lbottomdash.svg" loading="lazy" width="925" alt="" class="image-24"></div>
     <div data-w-id="c7319332-da6d-d5ae-9206-c22d8551af89" class="div-block-2">
       <a href="/projects/" class="button-2 landingbutton landingbuttonsmall w-button">Let the story unfold</a>
-      <div class="arrowlanding"></div>
+      <!-- <div class="arrowlanding"></div> -->
     </div>
   </div>
   <div class="noise"><img src="images/noise.png" loading="lazy" sizes="100vw" srcset="images/noise-p-500.png 500w, images/noise-p-800.png 800w, images/noise-p-1080.png 1080w, images/noise.png 1440w" alt="" class="image-4"></div>
+  
+  <div class="div-block-50" style="position: fixed; bottom: 5vh; width: 100%; display: flex; align-items: center; justify-content: center;">
+    <div class="html-embed-2 w-embed w-script" style="border: 1px solid #67606c; border-radius: 5px; padding: 6px 6px 4px 6px">
+      <audio id="player" preload="auto" loop="true" autobuffer="" src="/music/sample.mp3" width="0" height="0">
+        Your browser does not support the <code>audio</code> element.
+      </audio>
+      <div>
+        <button class="control-button"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path d="M6 19H10V5H6V19ZM14 5V19H18V5H14Z" fill="#67606C" />
+          </svg></button>
+  
+        <button class="control-button" onclick="document.getElementById('player').volume+=0.1"><svg width="24" height="24"
+            viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M3 8.99998V15H7L12 20V3.99998L7 8.99998H3ZM16.5 12C16.5 10.23 15.48 8.70998 14 7.96998V16.02C15.48 15.29 16.5 13.77 16.5 12ZM14 3.22998V5.28998C16.89 6.14998 19 8.82998 19 12C19 15.17 16.89 17.85 14 18.71V20.77C18.01 19.86 21 16.28 21 12C21 7.71998 18.01 4.13998 14 3.22998V3.22998Z"
+              fill="#67606C" />
+          </svg></button>
+        <button class="control-button" onclick="document.getElementById('player').volume-=0.1"><svg width="24" height="24"
+            viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M18.5 12C18.5 10.23 17.48 8.71 16 7.97V16.02C17.48 15.29 18.5 13.77 18.5 12ZM5 9V15H9L14 20V4L9 9H5Z"
+              fill="#67606C" />
+          </svg></button>
+  
+        <button class="control-button"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+            xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M16.5 12C16.5 10.23 15.48 8.71 14 7.97V10.18L16.45 12.63C16.48 12.43 16.5 12.22 16.5 12V12ZM19 12C19 12.94 18.8 13.82 18.46 14.64L19.97 16.15C20.63 14.91 21 13.5 21 12C21 7.72 18.01 4.14 14 3.23V5.29C16.89 6.15 19 8.83 19 12ZM4.27 3L3 4.27L7.73 9H3V15H7L12 20V13.27L16.25 17.52C15.58 18.04 14.83 18.45 14 18.7V20.76C15.38 20.45 16.63 19.81 17.69 18.95L19.73 21L21 19.73L12 10.73L4.27 3ZM12 4L9.91 6.09L12 8.18V4Z"
+              fill="#67606C" />
+          </svg></button>
+      </div>
+      <style>
+        audio {
+          width: 10vw;
+          transform: scale(0.80);
+        }
+  
+        .control-button {
+          background: none;
+        }
+  
+        audio::-webkit-media-controls-play-button,
+        audio::-webkit-media-controls-overlay-enclosure,
+        audio::-webkit-media-controls-panel {
+          background-color: #dbd8d1;
+          color: #1e1e1e;
+        }
+      </style>
+      <script>
+        document.getElementById('player').volume = 0.1;
+        var playPauseButton = document.getElementsByClassName('html-embed-2')[0].children[1].children[0];
+
+        playPauseButton.onclick = () => {
+          if (playPauseButton.innerHTML == `<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 5V19L19 12L8 5Z\" fill=\"#67606C\"></path></svg>`) {
+            document.getElementById('player').play();
+            playPauseButton.innerHTML = `<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 19H10V5H6V19ZM14 5V19H18V5H14Z\" fill=\"#67606C\"></path></svg`;
+          } else {
+            document.getElementById('player').pause();
+            playPauseButton.innerHTML = `<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 5V19L19 12L8 5Z\" fill=\"#67606C\"></path></svg>`
+          }
+        }
+
+        var muteUnmuteButton = document.getElementsByClassName('html-embed-2')[0].children[1].children[3];
+
+        muteUnmuteButton.onclick = () => {
+          if (document.getElementById('player').volume === 0) {
+            document.getElementById('player').volume = 0.1;
+            muteUnmuteButton.innerHTML = `<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16.5 12C16.5 10.23 15.48 8.71 14 7.97V10.18L16.45 12.63C16.48 12.43 16.5 12.22 16.5 12V12ZM19 12C19 12.94 18.8 13.82 18.46 14.64L19.97 16.15C20.63 14.91 21 13.5 21 12C21 7.72 18.01 4.14 14 3.23V5.29C16.89 6.15 19 8.83 19 12ZM4.27 3L3 4.27L7.73 9H3V15H7L12 20V13.27L16.25 17.52C15.58 18.04 14.83 18.45 14 18.7V20.76C15.38 20.45 16.63 19.81 17.69 18.95L19.73 21L21 19.73L12 10.73L4.27 3ZM12 4L9.91 6.09L12 8.18V4Z\" fill=\"#67606C\"></path></svg>`
+          } else {
+            document.getElementById('player').volume = 0;
+            muteUnmuteButton.innerHTML = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M7 9V15H11L16 20V4L11 9H7Z" fill="#67606C" />
+                              </svg>`
+          }
+        }
+
+        function setCookie(c_name, value, exdays) {
+          var exdate = new Date();
+          exdate.setDate(exdate.getDate() + exdays);
+          var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+          document.cookie = c_name + "=" + c_value;
+        }
+        function getCookie(c_name) {
+          var i, x, y, ARRcookies = document.cookie.split(";");
+          for (i = 0; i < ARRcookies.length; i++) {
+            x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+            y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+            x = x.replace(/^\s+|\s+$/g, "");
+            if (x == c_name) {
+              return unescape(y);
+            }
+          }
+        }
+        var song = document.getElementsByTagName('audio')[0];
+        var played = false;
+        var tillPlayed = getCookie('timePlayed');
+        function update() {
+          if (!played) {
+            if (tillPlayed) {
+              song.currentTime = tillPlayed;
+              song.play();
+              played = true;
+            }
+            else {
+              song.play();
+              played = true;
+            }
+          }
+          else {
+            setCookie('timePlayed', song.currentTime);
+          }
+        }
+        setInterval(update, 1000);
+      </script>
+    </div>
+  </div>
   <script src="/js/jquery.js" type="text/javascript"></script>
   <script src="/js/webflow.js" type="text/javascript"></script>
   <%- include("partials/footer.ejs") %>
