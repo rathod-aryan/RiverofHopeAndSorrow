@@ -2032,6 +2032,13 @@ a {
   z-index: 110;
 }
 
+@media screen and (min-width:767px){
+  .image-26{
+    max-width:150px;
+    max-height: 150px;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .body {
     cursor: auto;

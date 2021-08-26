@@ -57,7 +57,7 @@
             <div class="div-block-50" style="display: flex; align-items: center; justify-content: center;">
                 <div class="html-embed-2 w-embed w-script"
                     style="border: 1px solid #67606c; border-radius: 5px; padding: 6px 6px 4px 6px">
-                    <audio id="player" preload="auto" loop="true" autobuffer="" src="/music/sample.mp3" width="0" height="0">
+                    <audio id="player" preload="auto" loop="true" autobuffer="" src="/music/sample.mp3" width="0" height="0" autoplay>
                         Your browser does not support the <code>audio</code> element.
                     </audio>
                     <div>
@@ -179,7 +179,7 @@
         <div class="div-block-24 overlay">
             <div class="text-block-12">About Me</div>
             <div class="text-block-13">Hi, I am <%= project.name %></div>
-            <div class="text-block-9"><%= project.bio %><br></div>
+            <div class="text-block-9" style="white-space: pre-line;"><%= project.bio %><br></div>
             <div class="div-block-39">
                 <% if(project.twitter != '') { %>
                     <a href="https://www.twitter.com/<%= project.twitter %>" target="_blank" class="outreachtext">Twitter</a><img
@@ -215,7 +215,7 @@
                     <div class="div-block-26"></div>
                     <div class="text-block-10"><%= project.title %></div>
                 </div>
-                <div class="text-block-9 maintext"><%= project.writeup %></div>
+                <div class="text-block-9 maintext" style="white-space: pre-line;"><%= project.writeup %></div>
                 <div class="div-block-25">
                     <a data-w-id="e4bda710-e5c8-da1c-3dc1-a01e948cd41d" style="opacity:0.8" href="#" class="link-2">by :
                         <%= project.name %></a>
