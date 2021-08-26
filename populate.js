@@ -656,8 +656,8 @@ const newData = [
   {
     name: "Wengling Wang",
     photos: [
-      "/Exhibition/Wengling Wang/2 (1) 1.png",
       "/Exhibition/Wengling Wang/5 (1) 1.png",
+      "/Exhibition/Wengling Wang/2 (1) 1.png",
       "/Exhibition/Wengling Wang/6 (1) 1.png",
     ],
     title: ``,
