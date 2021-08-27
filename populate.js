@@ -819,7 +819,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     name: "Xiawei Liao",
     photos: [
       "/Exhibition/Xiawei Liao/Xiawei 1 - Arundhati Deka.png",
-      "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.jpg",
+      "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.png",
     ],
     title: `Living with the river`,
     writeup: `I have spent a week during the last summer driving along the river, from the Yarlung Tsangpo Grand Canyon to the Lhasa city. I was not only awed by the magnificent nature along the river, the beautiful starry sky in the night, I was also touched by the different stories and believes that I heard along the way, from the people who have lived with such nourishing water, mountains, trees and animals for decades.
