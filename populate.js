@@ -142,24 +142,7 @@ const newData = [
     email: "padity@gmail.com",
     index: 3,
   },
-  // {
-  //   name: "Xiawei Liao",
-  //   photos: [
-  //     "/Exhibition/Xiawei Liao/Xiawei 1 - Arundhati Deka.png",
-  //     "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.jpg",
-  //   ],
-  //   title: `Living with the river`,
-  //   writeup: `I have spent a week during the last summer driving along the river, from the Yarlung Tsangpo Grand Canyon to the Lhasa city. I was not only awed by the magnificent nature along the river, the beautiful starry sky in the night, I was also touched by the different stories and believes that I heard along the way, from the people who have lived with such nourishing water, mountains, trees and animals for decades.
-    
-  //   I was taught about the different burial styles of the Tibetan people, including the celestial burial, water burial and so forth. The idea that touched me the most was that, I was told, Tibetans do not eat that much fish and birds because they believe that their ancestors live within them. I texted this to my friends and my friend replied: I wonder if that embeds any traditional thoughts for biodiversity conservation! Yes, I wonder too.`,
-  //   bio: `Xiawei Liao is a water resource specialist based in World Bank Beijing Office. He has worked on a wide range of water-related issues, including water security, water supply and sanitation, flood management and so on in several South and East Asian countries. Xiawei holds a PhD in Geography and the Environment from the University of Oxford and has published more than 20 journal articles and a book on China’s water issues.
-    
-  //   He started working at the World Bank on the Brahmaputra Dialogue, a multi-track multi-country dialogue funded by the South Asia Water Initiative, a multi-donor Trust Fund managed by the World Bank.`,
-  //   twitter: "",
-  //   instagram: "",
-  //   email: "xliao@worldbank.org",
-  //   index: 9,
-  // },
+ 
   {
     name: "Dheeman Garg",
     photos: [
@@ -391,6 +374,7 @@ const newData = [
   //     instagram: "junaidKhan_jak",
   //     index: 20
   // },
+
   {
     name: "Abhilash Gayan",
     photos: [
@@ -480,6 +464,7 @@ const newData = [
     email:"vivekgunawat@gmail.com",
     index: 22,
   },
+
   // {
   //     name: "Natasha Bora",
   //     photos: [
@@ -645,6 +630,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     email: "gurrjag@gmail.com",
     index: 28,
   },
+
   // TODO: no title, no description, no bio
   // {
   //   name: "Moon Ridoy",
@@ -724,18 +710,6 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     index: 31,
   },
 
-  //38 lepka
-  // {
-  //   name: "Minket Lepcha 3",
-  //   photos: ["/Exhibition/Minket Lepcha/8 - minket lepcha.png"],
-  //   title: "",
-  //   writeup: ``,
-  //   bio: `I am an independent researcher from Darjeeling conducting interactive experiential sessions across India, Nepal, and Bangladesh to connect children and youth with river. I use the medium of films, photographs in articles to represent narratives around water and river. A Young Green Filmmaker Awardee (2015) for directing ‘Voices of Teesta’ in Woodpecker’s International Film Festival, I have represented and facilitated myself in forums like River Dialogue, Women and Water Consultation Programme in Assam, story therapy sessions with Riverine Communities affected by flood in Assam and represented River Teesta in International Conference on Women with River’s Congress in Nepal. I was one of the mentors from upstream river communities to engage with youth in River Camp held in Bangladesh. I received Third Pole-Oxfam Shared Water Media Grants as part of the Transboundary Rivers of South Asia (TROSA) project to work with Women's relationship with Mahakali River and was a fellow researcher for Kathmandu Valley Urban History Project by Nepal Picture Library where I traced ancient water resources around World Heritage Site of Boudha Stupa in Kathmandu Valley. A virtual exhibition was successfully curated Visualizing Water Heritage through storytelling in North East India project funded by British Council Small Heritage Grants with Living Water Museum wherein 30 adolescent girls of North East documented river folklore during Covid19.`,
-  //   twitter: `@LepchaMinket`,
-  //   instagram: "@minket_lepcha",
-  //   email: "minket19@gmail.com",
-  //   index: 38,
-  // },
 
   {
     name: "Vijayeta Rajkumari",
@@ -841,24 +815,25 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     index: 37,
   },
 
-  // TODO: Iska Title sahi karna hai
-  //   {
-  //     name: "Minket Lepcha",
-  //     photos: [
-  //       "/Exhibition/Minket Lepcha/1 - minket lepcha.png",
-  //       "/Exhibition/Minket Lepcha/5 - minket lepcha.png",
-  //       "/Exhibition/Minket Lepcha/6 - minket lepcha.png",
-  //       "/Exhibition/Minket Lepcha/7 - minket lepcha.png",
-  //       "/Exhibition/Minket Lepcha/8 - minket lepcha.png",
-  //     ],
-  //     title: ``,
-  //     writeup: `Explode Towards the banks of River Brahmaputra in Horipur in Gaibandha district of Bangladesh, many communities residing around the river banks are directly connected to their rivers for their livelihood. Fishing is one of the main occupation for the riverine communities. But with frequent flash flood, the communities living in char island around River Brahmaputra in Bangladesh lives a live of constant threat and displacement. This displacement and insecurity also costs their livelihood. Finding an alternative and fast income generating methods, seen in the picture are two men carrying a dynamite to kill fish so that those fishes can be sold for their survival. Old fisher folks around the river banks does not approve of the method. Elders show discomfort for such practices. The dynamite is exploded inside the river so that fish can be killed instantly. The practice not only harms the fish but disrupts the riverine health and surrounding ecosystem. This practice has also costed lives of fisher folks of the region. Ferry to go home Mishing is a largest river community of Assam dispersed around various tributaries of River Brahmaputra. They also live in one of the world's largest river island called Majuli. As a riverine tribe, Mising indicates blend of mi ‗man‘ and asi ‗water‘. The Mising consider themselves to be the descendent of the Sun and Moon. On all auspicious occasions, the Sun is referred to Ane Do:nyi- ‗Mother Sun‘ and the Moon who they call Abu Po:lo ‗Father Moon‘ are worshiped. People of Assam referred to Mishing as Miri. According to E. A. Gait, the word Miri means middle man in Assamese words. They acted as a channel of communication between the people of Assam and Abors of Arunachal Pradesh. Ferries and boats are the only lifeline which connects people to the mainland. Women are rare travellers in the ferry as men dominates the passenger ratio. Women in the boat are seen either with a new born baby, visiting her family or to check ailments to nearby hospitals in mainland. With half the male population outside the island for work or better education, these women spends most of the time weaving, tending farms, cooking or battling flood during monsoon season. Climate related disasters with women in rural areas often go unrecorded while they are directly related to accessing natural resources like water and forest for their daily consumption. Looking at the vastness of the River Brahmaputra, a Mishing woman is seen looking at the river from the ferry as though the river is the only companion and her gold earring, the only wealth. The narratives around women and their relationship with river often goes through many layers. Love across the ‘Brohmaputra Nodi’ Mishing is a marginalised riverine population of River Brahmaputra. They believe themselves to be the descendent of Donyi Polo – Mother Sun and Father Moon respectively. Mishing practices a patriarchal system. After the marriage a girl lives with her husband‘s family. Generally formal marriage called – Da : roMidang is a formal marriage where social norms are followed. Parents of both boys and girls negotiate for this union. Dugla la nam i.e marriage by elopement is a common practice form of marriage. Formal marriages are very expensive and if the Mishing community is unable to sustain the cost of formal marriage then Mishing village heads and society encourages this practice. Otherwise, the boys and girl choose such type of marriage system if family‘s oppose to the marriage. And Kumna sola La:nam i.e a marriage through a simple ceremony does not have a heavy cost. Usually the less affluent section of the people due to poverty or inconvenience practise such system of marriage. Marriage is celebrated by inviting elders and offering Apong (rice beer) to them. Soon to be Mishing bridegroom waits with his family for the boat with gifts for the bride's family to cross the River Brahmaputra and get his bride from Majuli island. They are crossing the river with Apong (local drink), Tamul (beetle nut) and fish for the bride's family. Dressed in traditional hand woven Mekhla Chador (pronounced Sador) which takes month to make the two-piece set and Gomcha (scarf for men), the bridegroom’s family wait for the boat eagerly. The bride’s happiness is just across the River Brahmaputra. The Confluence River Brahmaputra and River Teesta are two major transboundary rivers of South Asia which meets at Bangladesh in a place called Chilmari. Both of these rivers originates in Mighty Himalaya and meanders through the mountains of India to meet at Chilmari which lies in the northern part of Bangladesh bordering India. Chilmari has many river islands (chars). When huge dams and Barrage opens gates in the upstream rivers of India especially during the monsoon, places like Chilmari are the first to witness flash floods and soil erosion. Many communities living in this area are landless and experiences extreme poverty and displacement. Seen in the picture is a confluence of River Teesta with River Brahmaputra at the backdrop with a boat containing many such displaced communities of Chilmari. At the foreground, ‘belli phool’ also known as Jasmine flower was plucked freshly by the river bank to offer to the confluence. A large Indian banyan leaf was commonly found. Jasmine flowers were offered along with the Indian banyan leaf. These two entity of the river confluence symbolises the presence of similar ecosystem along these transboundary rivers. The flower and the leaf celebrates the interconnectedness of the riverine biodiversity. Adapting like a water Pinky Pame was born between the confluence of Subansiri river and River Brahmaputra. She migrated from her village to further her college but married young. As a new daughter in law of the house, she sits by the hearth to prepare pork meat for guests which is offered with rice and Apong (rice beer). Rice is the staple food of the Mishing. Apong is a special drink served and offered in various ceremonial functions and in worshipping of spirits. The flood is a norm for riverine people community like Mishing, especially during rainy season. She lives in a typical Mishing house called ‘Changhar‘ – a thatched house , raised about 4 -5 feet from the ground with a bamboo and wooden stilts. She lives with her husband and his family. Sometimes, while she is cooking, pigs run below the house as her new family breeds pigs. During the night, ‘fireflies’ called ‘Junaki’ is seen flying through the crevices of the floor. It is a platform house which is traditionally known as Taleng Okum. They serve the dual purpose of keeping floodwaters and wild animals at bay. These kind of houses are easy to construct and elevation levels of the houses can be changed depending upon the floods of the previous year. Higher the water level than the previous year, more elevated are subsequent houses built. During the time of flood, as a child Pinky remembers her maternal house to have a boat to move about for their daily chores. But, with forest cover reducing, logging banned and wood becoming scarce, cheaper replacements like bamboo rafts, wood or banana stems are being used to navigate through floodwaters. Now, she is a proud mother of a boy.`,
-  //     bio: `I am an independent researcher from Darjeeling conducting interactive experiential sessions across India, Nepal, and Bangladesh to connect children and youth with river. I use the medium of films, photographs in articles to represent narratives around water and river. A Young Green Filmmaker Awardee (2015) for directing ‘Voices of Teesta’ in Woodpecker’s International Film Festival, I have represented and facilitated myself in forums like River Dialogue, Women and Water Consultation Programme in Assam, story therapy sessions with Riverine Communities affected by flood in Assam and represented River Teesta in International Conference on Women with River’s Congress in Nepal. I was one of the mentors from upstream river communities to engage with youth in River Camp held in Bangladesh. I received Third Pole-Oxfam Shared Water Media Grants as part of the Transboundary Rivers of South Asia (TROSA) project to work with Women's relationship with Mahakali River and was a fellow researcher for Kathmandu Valley Urban History Project by Nepal Picture Library where I traced ancient water resources around World Heritage Site of Boudha Stupa in Kathmandu Valley. A virtual exhibition was successfully curated Visualizing Water Heritage through storytelling in North East India project funded by British Council Small Heritage Grants with Living Water Museum wherein 30 adolescent girls of North East documented river folklore during Covid19.`,
-  //     twitter: "@LepchaMinket",
-  //     instagram: "@minket_lepcha",
-  //     index: -1,
-  //   },
-  // 7th, 29th, 38th
+  {
+    name: "Xiawei Liao",
+    photos: [
+      "/Exhibition/Xiawei Liao/Xiawei 1 - Arundhati Deka.png",
+      "/Exhibition/Xiawei Liao/Xiawei 2 - Arundhati Deka.jpg",
+    ],
+    title: `Living with the river`,
+    writeup: `I have spent a week during the last summer driving along the river, from the Yarlung Tsangpo Grand Canyon to the Lhasa city. I was not only awed by the magnificent nature along the river, the beautiful starry sky in the night, I was also touched by the different stories and believes that I heard along the way, from the people who have lived with such nourishing water, mountains, trees and animals for decades.
+    
+    I was taught about the different burial styles of the Tibetan people, including the celestial burial, water burial and so forth. The idea that touched me the most was that, I was told, Tibetans do not eat that much fish and birds because they believe that their ancestors live within them. I texted this to my friends and my friend replied: I wonder if that embeds any traditional thoughts for biodiversity conservation! Yes, I wonder too.`,
+    bio: `Xiawei Liao is a water resource specialist based in World Bank Beijing Office. He has worked on a wide range of water-related issues, including water security, water supply and sanitation, flood management and so on in several South and East Asian countries. Xiawei holds a PhD in Geography and the Environment from the University of Oxford and has published more than 20 journal articles and a book on China’s water issues.
+    
+    He started working at the World Bank on the Brahmaputra Dialogue, a multi-track multi-country dialogue funded by the South Asia Water Initiative, a multi-donor Trust Fund managed by the World Bank.`,
+    twitter: "",
+    instagram: "",
+    email: "xliao@worldbank.org",
+    index: 38,
+  },
+
 
   // {
   //     name: "Tanushree Baruah",
