@@ -2363,6 +2363,10 @@ a {
 }
 
 @media screen and (max-width: 767px) {
+  .disclaimer {
+    display: none;
+  }    
+
   .menu-button {
     padding-right: 10px;
   }

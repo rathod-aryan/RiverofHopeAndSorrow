@@ -44,27 +44,7 @@ const newData = [
     email:"vivekrajsingh6@gmail.com",
     index: 5,
   },
-  // {
-  //   name: "Ashima Sharma",
-  //   photos: [
-  //     //   "/Exhibition/Ashima Sharma/IMG 0000 - ashima sharma.png",
-  //     //   "/Exhibition/Ashima Sharma/IMG_0207 - ashima sharma.png",
-  //     "/Exhibition/Ashima Sharma/IMG_9290 - ashima sharma.png",
-  //     "/Exhibition/Ashima Sharma/IMG_9329 - ashima sharma.png",
-  //     "/Exhibition/Ashima Sharma/IMG_9382 - ashima sharma.png",
-  //   ],
-  //   title: `The Shifting Chars of Brahmaputra`,
-  //   writeup: `Chars or sandbanks in the Brahmaputra are home to approximately twenty-five lakh people whose lives are like shifting sand. When Amitav Ghosh, in the title of his book, The Hungry Tide, personifies the tide to hunger, it extends beyond its literal sense to show how islanders fight with calamitous environment each day, yet choose to live with it. 
-    
-  //   He writes: "Transformation is the rule of life: rivers stray from week to week, and islands are made and unmade in days.” (Ghosh, 2005) LIVING WITH THE RIVER Pagla Nodi or ‘mad river’ is a song of the boatmen. It captures the many moods of the river—as a ravaging force during the flood, as a nurturer and as the only reality of people for whom land and water is the same.`,
-  //   bio: `Ashima Sharma is a graduate in (B.A. (Hons.) Journalism and Communication from O.P. Jindal Global University, India. She will be joining the London School of Economics and Political Science in September 2021 to pursue a master’s degree in human rights. In October 2020 she was awarded the Graduate Research Immersion Programme (GRIP) Scholarship by O.P Jindal Global University to research on the Rohingyas and their erasure of human rights.
-    
-  //   Her focus in research has been on refugees and migration and has worked with an international film production researching on the Rohingyas. She also runs her own podcast called The Hook (https://thehook.podbean.com). She has previously worked with Innovative Change Collaborative (ICCo) as a consultant- research and documentation on a project titled Work: No Child’s Business (WNCB). The alliance includes Save the Children, UNICEF, and Stop Child Labor Coalition in six countries.`,
-  //   twitter: "@AshimaS4",
-  //   instagram: "____ashima____",
-  //   email: "ashimasharma121948@gmail.com",
-  //   index: 3,
-  // },
+
   {
     name: "Ayanava Sil",
     photos: [
@@ -84,28 +64,7 @@ const newData = [
     email:"ayanava3@gmail.com",
     index: 2,
   },
-  // {
-  //   name: "Chandrani Sinha",
-  //   photos: [
-  //     "/Exhibition/Chandrani Sinha/children of chars - chandrani Sinha.png",
-  //     "/Exhibition/Chandrani Sinha/Fishing in chars - chandrani Sinha.png",
-  //     "/Exhibition/Chandrani Sinha/life in chars (2) - chandrani Sinha.png",
-  //     "/Exhibition/Chandrani Sinha/Old man in chars - chandrani Sinha.png",
-  //   ],
-  //   title: `Life in river island of Brahmaputra`,
-  //   writeup: `Children of char: The photo is taken in one of the chars in Kamrup rural in Assam depicts the condition of the children staying in the river island know as chars in local language. The hardship they had to face since birth, the girl child are more vulnerable to atrocities and trafficking.
-    
-  //   Fishing in char: A boat waiting for his luck to catch fishes near a char. Most of the char communities are dependent on fishing. Due to climate change they get a less catch nowadays.
-    
-  //   Life in chars: A skeleton of a dead goat. This photo depicts the hardship of river and the people staying in its bank. As every year lot of their cattle die due to flood. 
 
-  //   Old man in char: Jabbar Ali, a 61 years old man returning from his work to his char Major Tup situated in Kamrup rural in Assam. This is his routine since past 21 years.`,
-  //   bio: `Chandrani Sinha is an independent multimedia journalist, currently based in Guwahati Assam India. She has been reporting stories from Northeast India for 9 years. Currently, she contributes to both Indian and international media organizations. She intensively works on climate change in conflict areas, the environment, and sustainable development along with other human-interest stories. She also covers the eastern corridor of India along with all the North-Eastern states.`,
-  //   twitter: "@chandranisinha1",
-  //   instagram: "chandranisinha",
-  //   email: "chandrani.ghy@gmail.com",
-  //   index: 5,
-  // },
 
   {
     name: "Arundhati Deka",
@@ -117,17 +76,15 @@ const newData = [
       "/Exhibition/Arundhati Deka/Picture 5 – Woman simultaneously conducting chore and taking care of her child during flood, from a char in Goalpara - Arundhati Deka.png",
     ],
     title: `Women from the floodplains of Assam`,
-    writeup: `Assam has a diverse group of communities, and the role of the women within these communities also sometimes remain the same in the private while changing constantly in the public. The women of the tribal communities in Assam (specifically Deori and Mishing) are engaged both at the private and public space from household activities and looking after the family to agricultural activities.
+    writeup: `Assam has a diverse group of communities, and the role of the women within these communities also sometimes remain the same in the private while changing constantly in the public. The women of the tribal communities in Assam (specifically Deori and Mishing) are engaged both at the private and public space from household activities and looking after the family to agricultural activities (Picture 1 – Women in the agricultural field in Majuli), fishing, and fetching wood for cooking. 
     
-    Women in the agricultural field in Majuli : Fishing, and fetching wood for cooking. This often overburden the women. Especially during the harvest season, they barely have time left for themselves. The mornings are for household work of cleaning and cooking, then spending the entire day at the field, and then coming back home and engaging in domestic chores again. But within the public sphere, there is a clear gender divide in the public. Women engage in the activities of sowing and reaping in the agricultural field, while the men engage in ploughing and carrying the reaped harvest from the field (heavy load). 
+    This often overburden the women. Especially during the harvest season, they barely have time left for themselves. The mornings are for household work of cleaning and cooking, then spending the entire day at the field, and then coming back home and engaging in domestic chores again. But within the public sphere, there is a clear gender divide in the public. Women engage in the activities of sowing and reaping in the agricultural field, while the men engage in ploughing and carrying the reaped harvest from the field (heavy load).
     
-    Women from Sadiya with jakoi: Women use the jakoi  as an equipment for catching fish, while men generally use fishing nets. The men usually row the boats, while the women are often discouraged and unless absolutely necessary.
+    Women use the jakoi (Picture 2 – Women from Sadiya with jakoi) as an equipment for catching fish, while men generally use fishing nets. 
     
-    Man and woman in a boat in Majuli: While the women from the lower reaches of Assam don’t really engage in the public sphere as much, fishing.
+    The men usually row the boats, while the women are often discouraged and unless absolutely necessary (Picture 3 – Man and woman in a boat in Majuli). While the women from the lower reaches of Assam don’t really engage in the public sphere as much, fishing (Picture 4 – Woman engaging in fishing, from 2017 flood, while on the way to Dhubri) as an activity during the flood season diminishes the gender roles as both the genders engage in it as an alternative source of livelihood. 
     
-    Woman engaging in fishing, from 2017 flood, while on the way to Dhubri: As an activity during the flood season diminishes the gender roles as both the genders engage in it as an alternative source of livelihood. Within the char communities, the engagement of women with the public space tends to be even less with their mobility being restricted often to the compound of their house, but like the other communities within the private space they are the primary caretakers.
-    
-    Woman simultaneously conducting chore and taking care of her child during flood, from a char in Goalpara: Often left with trauma upon loss.
+    Within the char communities, the engagement of women with the public space tends to be even less with their mobility being restricted often to the compound of their house, but like the other communities within the private space they are the primary caretakers (Picture 5 – Woman simultaneously conducting chore and taking care of her child during flood, from a char in Goalpara), often left with trauma upon loss.
   
     Disclaimer: The story from the project team member is only part of the exhibition and will not be considered for the honorarium. The honorarium considerations are only for external participants. However, please leave your feedback for the story in the comments section.`,
     bio: `Arundhati Deka is a Research Associate at the Department of Humanities and Social Sciences, IIT Guwahati. Currently she is working on understanding the need for science-media communication and diplomacy in the Brahmaputra, and to realize what role water infrastructure plays in the evolution of nature-society relationship.
@@ -837,6 +794,51 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     instagram: "",
     email: "wangwl@ynu.edu.cn",
     index: 35,
+  },
+
+    {
+    name: "Chandrani Sinha",
+    photos: [
+      "/Exhibition/Chandrani Sinha/children of chars - chandrani Sinha.png",
+      "/Exhibition/Chandrani Sinha/Fishing in chars - chandrani Sinha.png",
+      "/Exhibition/Chandrani Sinha/life in chars (2) - chandrani Sinha.png",
+      "/Exhibition/Chandrani Sinha/Old man in chars - chandrani Sinha.png",
+    ],
+    title: `Life in river island of Brahmaputra`,
+    writeup: `Children of char: The photo is taken in one of the chars in Kamrup rural in Assam depicts the condition of the children staying in the river island know as chars in local language. The hardship they had to face since birth, the girl child are more vulnerable to atrocities and trafficking.
+    
+    Fishing in char: A boat waiting for his luck to catch fishes near a char. Most of the char communities are dependent on fishing. Due to climate change they get a less catch nowadays.
+    
+    Life in chars: A skeleton of a dead goat. This photo depicts the hardship of river and the people staying in its bank. As every year lot of their cattle die due to flood. 
+
+    Old man in char: Jabbar Ali, a 61 years old man returning from his work to his char Major Tup situated in Kamrup rural in Assam. This is his routine since past 21 years.`,
+    bio: `Chandrani Sinha is an independent multimedia journalist, currently based in Guwahati Assam India. She has been reporting stories from Northeast India for 9 years. Currently, she contributes to both Indian and international media organizations. She intensively works on climate change in conflict areas, the environment, and sustainable development along with other human-interest stories. She also covers the eastern corridor of India along with all the North-Eastern states.`,
+    twitter: "@chandranisinha1",
+    instagram: "chandranisinha",
+    email: "chandrani.ghy@gmail.com",
+    index: 36,
+  },
+
+    {
+    name: "Ashima Sharma",
+    photos: [
+      //   "/Exhibition/Ashima Sharma/IMG 0000 - ashima sharma.png",
+      //   "/Exhibition/Ashima Sharma/IMG_0207 - ashima sharma.png",
+      "/Exhibition/Ashima Sharma/IMG_9290 - ashima sharma.png",
+      "/Exhibition/Ashima Sharma/IMG_9329 - ashima sharma.png",
+      "/Exhibition/Ashima Sharma/IMG_9382 - ashima sharma.png",
+    ],
+    title: `The Shifting Chars of Brahmaputra`,
+    writeup: `Chars or sandbanks in the Brahmaputra are home to approximately twenty-five lakh people whose lives are like shifting sand. When Amitav Ghosh, in the title of his book, The Hungry Tide, personifies the tide to hunger, it extends beyond its literal sense to show how islanders fight with calamitous environment each day, yet choose to live with it. 
+    
+    He writes: "Transformation is the rule of life: rivers stray from week to week, and islands are made and unmade in days.” (Ghosh, 2005) LIVING WITH THE RIVER Pagla Nodi or ‘mad river’ is a song of the boatmen. It captures the many moods of the river—as a ravaging force during the flood, as a nurturer and as the only reality of people for whom land and water is the same.`,
+    bio: `Ashima Sharma is a graduate in (B.A. (Hons.) Journalism and Communication from O.P. Jindal Global University, India. She will be joining the London School of Economics and Political Science in September 2021 to pursue a master’s degree in human rights. In October 2020 she was awarded the Graduate Research Immersion Programme (GRIP) Scholarship by O.P Jindal Global University to research on the Rohingyas and their erasure of human rights.
+    
+    Her focus in research has been on refugees and migration and has worked with an international film production researching on the Rohingyas. She also runs her own podcast called The Hook (https://thehook.podbean.com). She has previously worked with Innovative Change Collaborative (ICCo) as a consultant- research and documentation on a project titled Work: No Child’s Business (WNCB). The alliance includes Save the Children, UNICEF, and Stop Child Labor Coalition in six countries.`,
+    twitter: "@AshimaS4",
+    instagram: "____ashima____",
+    email: "ashimasharma121948@gmail.com",
+    index: 37,
   },
 
   // TODO: Iska Title sahi karna hai
