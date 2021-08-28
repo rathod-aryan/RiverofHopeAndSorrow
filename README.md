@@ -78,7 +78,8 @@ The Project is currently hosted at [brahmaputra-exhibition.com](http://brahmaput
 5. Open the following link in your browser. Ensure you have allowed cookies and required permissions.
     http://localhost:3000/
 
-## Structure
+## Structure]
+|                  |                 |
 | ---------------- | --------------- |
 | /                | Home Page       |
 | /about           | About Us page   |
