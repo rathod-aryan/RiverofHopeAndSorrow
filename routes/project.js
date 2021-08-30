@@ -29,6 +29,7 @@ router.post("/:name", (req, res) => {
         name,
         comment,
         project: project[0]._id,
+        projectAuthor: project[0].name,
       });
       console.log(newComment);
       newComment.save();
@@ -45,7 +46,7 @@ router.get("/:name", (req, res) => {
       throw err;
     } else {
       //   console.log(project);
-      Comments.find({ project: project[0]._id }, (err, comments) => {
+      Comments.find({ projectAuthor: project[0].name }, (err, comments) => {
         if (err) {
           throw err;
         } else {

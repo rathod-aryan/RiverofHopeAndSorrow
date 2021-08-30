@@ -18,6 +18,10 @@ const commentSchema = new mongoose.Schema({
     ref: "Project",
     required: true,
   },
+  projectAuthor: {
+    type: String,
+    required: true,
+  },
 });
 
 module.exports = mongoose.model("Comment", commentSchema);
