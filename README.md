@@ -84,7 +84,7 @@ The Project is currently hosted at [brahmaputra-exhibition.com](http://brahmaput
 | /                | Home Page       |
 | /about           | About Us page   |
 | /projects        | Exhibition Page |
-| /projects/<Name> | Showcase Page   |
+| /projects/:Name | Showcase Page   |
 
 ## Contributers
 - [Aryan Rathod](https://www.behance.net/chardeux)
