@@ -41,7 +41,7 @@ const newData = [
     My work revolves around observational and journalistic stories such as the documentation of disabled artists in India and an ongoing long-term project about mass migration in Uttarakhand. I am a visual artist working with photography and video mixed as conduits for my creative expression; with interest in further blurring the line between the two mediums - as far as is possible while each complements the other. I am continually looking to improve as a storyteller and delve deeper into the use of expressionist and abstract methods in that pursuit`,
     twitter: "",
     instagram: "vivekr.singh",
-    email:"vivekrajsingh6@gmail.com",
+    email: "vivekrajsingh6@gmail.com",
     index: 5,
   },
 
@@ -61,10 +61,9 @@ const newData = [
     bio: `I am Ayanava Sil a resident of Kolkata, India. By education I hold a degree of Master Of Business Administration in Marketing. Photography to me is an exemption to see things differently. I am a Street and Documentary photographer, with an objective of documenting everyday life. The uncertainty and the suspense drives me the most towards these genres of Photography. Documenting people over the years has provided me with the invaluable opportunity to explore the unknown and to embrace the conglomerate realities of people.`,
     twitter: "@ayanava",
     instagram: "ayanava3",
-    email:"ayanava3@gmail.com",
+    email: "ayanava3@gmail.com",
     index: 2,
   },
-
 
   {
     name: "Arundhati Deka",
@@ -142,7 +141,7 @@ const newData = [
     email: "padity@gmail.com",
     index: 3,
   },
- 
+
   {
     name: "Dheeman Garg",
     photos: [
@@ -178,7 +177,7 @@ const newData = [
     bio: `I am a freelance photographer from Sadiya, Assam. I have been capturing river Brahmaputra and life around for a while now. I have a special connection with this river, and I am always inspired by the beauty of it`,
     twitter: "",
     instagram: "ayonpratimsaikia",
-    email:"ayononboard@gmail.com",
+    email: "ayononboard@gmail.com",
     index: 7,
   },
   {
@@ -213,7 +212,7 @@ const newData = [
     bio: `I am student pursuing my master’s degree in Sociology at Cotton University. I have developed a keen interest in photography over the past 10 years. As of now I am working on my own photo-book. Most of my shots are based on Brahmaputra only. I also served as the editor of Cottonian, the annual journal of Cotton University in the year 2016.`,
     twitter: "",
     instagram: "dhritimaann",
-    email:"dhritiman.dekaa@gmail.com",
+    email: "dhritiman.dekaa@gmail.com",
     index: 9,
   },
 
@@ -291,7 +290,7 @@ const newData = [
     bio: `A social researcher based in Assam with interest in human development, community centric practices and a passion for visual story-telling and photo-documentation.`,
     twitter: "@KastaurikaS",
     instagram: "with_wind_in_my_hair",
-    email:"kastaurika.saikia@gmail.com",
+    email: "kastaurika.saikia@gmail.com",
     index: 13,
   },
   {
@@ -331,7 +330,7 @@ const newData = [
     Dusk choirs: This photograph is of cattle herders returning with their herd during sunset on the bank of river Brahmaputra. The vast stretch of sand makes a spectacular sunset creating a surreal ambience.`,
     twitter: "",
     instagram: " jayshree.__",
-    email:"jayshreegohain123@gmail.com",
+    email: "jayshreegohain123@gmail.com",
     index: 32,
   },
 
@@ -383,7 +382,7 @@ const newData = [
       "/Exhibition/Abhilash Gayan/3 - Abhilash Gayan.png",
       "/Exhibition/Abhilash Gayan/4 - Abhilash Gayan.png",
     ],
-    title:"Bazaar's over Brahmaputra",
+    title: "Bazaar's over Brahmaputra",
     writeup: `The images captured near the Uzan Bazar ghat in Guwahati gives us an idea about the lives of the people of these communities and their work culture. The fishermen venture out deep into the vastness of the Brahmaputra early in the morning. After they return with their catch, they may sell the fish directly in the nearby markets or sell it to different vendors. 
     
     A major part of the fish catch is marketed fresh in the local fish markets. Located at the Uzan Bazar ghat at the south bank of the Brahmaputra, the Uzan Bazar fish market is one of the largest in the region. This market never fails to impress a fish lover with its huge variety. The place is vastly crowded in the morning hours as plenty of people rush to grab their share of freshly caught fish from the market. The Uzan Bazar fish market holds great significance as the livelihoods of the local fishermen and fish vendors are primarily dependent on the market and the river. It also gives an impression of the rich fishing culture of the native people. 
@@ -392,7 +391,7 @@ const newData = [
     bio: `I am Abhilash Gayan and I am a master’s student at Tezpur University. I am a hobbyist photographer and a beginner. I believe that a photo is worth the story it tells.`,
     twitter: "",
     instagram: "abhilash_gayan",
-    email:"agayan401@gmail.com",
+    email: "agayan401@gmail.com",
     index: 16,
   },
   {
@@ -426,7 +425,7 @@ const newData = [
     bio: `Recently retired (January 2021) from The Times of India Group as associate editor, after 34 years. She writes on environment, science, philosophy, travel, tourism, sustainability, heritage etc. She was editor of The Speaking Tree column and feature for 25 years. She is now a freelance writer.`,
     twitter: "",
     instagram: "",
-    email:"narayaniganesh@gmail.com",
+    email: "narayaniganesh@gmail.com",
     index: 18,
   },
   {
@@ -461,7 +460,7 @@ const newData = [
     bio: `I am an IITG Alum, Class of 2014. During my stay on campus, the life around the mighty Brahmaputra was enticing. I tried to observe life around it over weekends, sometimes watching the sunrises and sunsets through numerous ferries that we used to take to the city. And as a Photography enthusiast, I tried to capture as much as I could.`,
     twitter: "@iamgunti",
     instagram: "_gunti",
-    email:"vivekgunawat@gmail.com",
+    email: "vivekgunawat@gmail.com",
     index: 22,
   },
 
@@ -498,7 +497,7 @@ const newData = [
     bio: `I am currently pursuing a PhD from the Centre for the Environment, IITG. The area of my interest in where the blue meets the green i.e. the wetlands. I believe in the power of storytelling to change perspectives and move mountains.`,
     twitter: "",
     instagram: "neha_tintin_tina",
-    email:"sudeshna18@iitg.ac.in",
+    email: "sudeshna18@iitg.ac.in",
     index: 20,
   },
   {
@@ -551,7 +550,7 @@ const newData = [
     bio: `Rizowana Hussaini is a 1st year PhD student of English Literature at Tezpur University, Assam. She is an ardent lover of nature and pursues amateur photography through windows and walks. Her poetry has been published in the web magazine Vayavya and in the poet’s community blog, Daily Riyaaz.`,
     twitter: "",
     instagram: "giltedged_reads",
-    email:"rizowana09@gmail.com",
+    email: "rizowana09@gmail.com",
     index: 21,
   },
   {
@@ -597,7 +596,7 @@ const newData = [
     The form of my actions tries to expand, and at the same time contest the widespread blanket understandings associated with the current state of certain social aspects, the outtakes of which are shared through the mediums of installations, photographs, and videos.`,
     twitter: "",
     instagram: "vevaveev",
-    email:"devadeep165@gmail.com",
+    email: "devadeep165@gmail.com",
     index: 25,
   },
 
@@ -622,7 +621,7 @@ Exhibited on the theme of Climate Change, organized by the Centre for Science an
 Awarded a scholarship to undergo mobile journalism in Albania.`,
     twitter: "",
     instagram: "prabir.talukdar",
-    email:"",
+    email: "",
     index: 26,
   },
 
@@ -699,7 +698,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     In recent times, I've been much more interested in Astrophotography and I'm almost certain that I'll be pursuing this not only as a hobby but also a side profession.`,
     twitter: "",
     instagram: "agniv.jpeg",
-    email:"agniv911@gmail.com",
+    email: "agniv911@gmail.com",
     index: 29,
   },
 
@@ -737,10 +736,9 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     bio: `I am a 19-year-old photographer hailing from Guwahati. Currently studying B.Tech. in Assam Engineering College. Travelling, meeting new people, capturing precious memories, telling unforgettable stories through my lens is my forte and I hope to continue doing so with God’s grace.`,
     twitter: "ronit.r.sarmah_",
     instagram: "",
-    email:"ronitrimonsarmah41@gmail.com",
+    email: "ronitrimonsarmah41@gmail.com",
     index: 31,
   },
-
 
   {
     name: "Vijayeta Rajkumari",
@@ -758,7 +756,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     bio: `Vijayeta is a social development practitioner and a researcher who has worked in the thematic areas of gender, livelihoods, and governance. She is a graduate of TISS, Mumbai. She is currently residing in Guwahati, Assam`,
     twitter: "@Vijayeta_R",
     instagram: "vjay_jay__",
-    email:"vijayeta.rajkumari@gmail.com",
+    email: "vijayeta.rajkumari@gmail.com",
     index: 33,
   },
 
@@ -777,7 +775,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     bio: `I am a student of MA Development Studies. I like to explore and sometimes write about it.`,
     twitter: "",
     instagram: "shivamsingh13",
-    email:"shivamsingh@iitg.ac.in",
+    email: "shivamsingh@iitg.ac.in",
     index: 34,
   },
 
@@ -801,7 +799,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     index: 35,
   },
 
-    {
+  {
     name: "Chandrani Sinha",
     photos: [
       "/Exhibition/Chandrani Sinha/children of chars - chandrani Sinha.png",
@@ -824,7 +822,7 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     index: 36,
   },
 
-    {
+  {
     name: "Ashima Sharma",
     photos: [
       //   "/Exhibition/Ashima Sharma/IMG 0000 - ashima sharma.png",
@@ -864,7 +862,6 @@ Awarded a scholarship to undergo mobile journalism in Albania.`,
     email: "xliao@worldbank.org",
     index: 38,
   },
-
 
   // {
   //     name: "Tanushree Baruah",
