@@ -220,7 +220,7 @@ const newData = [
   {
     name: "Bikash Chetry",
     photos: [
-      //   "/Exhibition/Bikash Chetry/Pic 1 Bikash Clay collected by Kumars_2021 - Bikash Chetry.png",
+        "/Exhibition/Bikash Chetry/Pic 1 Bikash Clay collected by Kumars_2021 - Bikash Chetry.png",
       "/Exhibition/Bikash Chetry/Pic 2 Bikash Women Potters_2021 - Bikash Chetry.png",
       "/Exhibition/Bikash Chetry/Pic 3 Bikash_potter carrying the pots to boats_2021 - Bikash Chetry.png",
       //   "/Exhibition/Bikash Chetry/Pic 4 Bikash_Tying up the pot_2021 - Bikash Chetry.png",
@@ -511,12 +511,43 @@ const newData = [
       //   "/Exhibition/Rizowana Hussaini/WhatsApp Image 2021-06-25 at 10.41.46 PM.png",
     ],
     title: `Pulling through`,
-    writeup: `A series of photographs with accompanying lines of verse displaying the pull of depression the Speaker had through lockdown and steering their will to push on another day. As Winter ebbs away, a rush of nostalgia takes its place. 
-    A solitary figure wends the way right to the water's edge: This is no Wanderer Above a Sea of Fog, There isn't a cliff or curling fingers of obscurity Just a figure, some thoughts and the mighty river. Calm, in a pool of sunset, ruminations stray to the changes Of a year gone by.
-    A crumbling bank. A rivulet Streams down to join the bigger body. Such is Time Wearying down bodies, Scratching age into contours.
-    In the distance, signs of life: Laughter, wind, and moving points Of light. Is this misery solely mine To battle as if movement after a year of sleep Is nothing to rouse out of?
-    The face of upset is sometimes tranquil. The serene belies the depthless currents. Agony swirling Unseen. Perhaps this is Charon and this my Styx.
-    Or perhaps, this too, like the river, Is in motion. What prevents one from going under But the promise of daybreak after twilight? After this year of stillness, I look For another ruse to shelter this Unmoored mind. Tie me up to the shores of winter: Spring tides in gently.`,
+    writeup: `A series of photographs with accompanying lines of verse displaying the pull of depression the Speaker had through lockdown and steering their will to push on another day.
+    As Winter ebbs away, a rush of nostalgia takes its place.
+    A solitary figure wends the way right to the water's edge:
+    This is no Wanderer Above a Sea of Fog,
+    There isn't a cliff or curling fingers of obscurity
+    Just a figure, some thoughts and the mighty river.
+    Calm, in a pool of sunset, ruminations stray to the changes
+    Of a year gone by.
+
+    A crumbling bank. A rivulet
+    Streams down to join the bigger body.
+    Such is Time
+    Wearying down bodies,
+    Scratching age into contours.
+
+    In the distance, signs of life:
+    Laughter, wind, and moving points
+    Of light. Is this misery solely mine
+    To battle as if movement after a year of sleep
+    Is nothing to rouse out of?
+
+    The face of upset is sometimes tranquil.
+    The serene belies
+    the depthless currents.
+    Agony swirling
+    Unseen.
+    Perhaps this is Charon
+    and this my Styx.
+
+    Or perhaps, this too, like the river,
+    Is in motion. What prevents one from going under
+    But the promise of daybreak after twilight?
+    After this year of stillness, I look
+    For another ruse to shelter this
+    Unmoored mind.
+    Tie me up to the shores of winter:
+    Spring tides in gently.`,
     bio: `Rizowana Hussaini is a 1st year PhD student of English Literature at Tezpur University, Assam. She is an ardent lover of nature and pursues amateur photography through windows and walks. Her poetry has been published in the web magazine Vayavya and in the poet’s community blog, Daily Riyaaz.`,
     twitter: "",
     instagram: "giltedged_reads",
