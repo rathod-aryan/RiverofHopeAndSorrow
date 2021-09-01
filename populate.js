@@ -33,9 +33,12 @@ const newData = [
       "/Exhibition/Vivek Raj Singh/FF5287C1-C7A9-4045-A2EA-01488BE9FACE - Vivek Raj Singh.png",
     ],
     title: `River Islands`,
-    writeup: `The photos are taken in the river islands of Kamrup rural Assam. They depict the condition of the children and elderly staying in the river island (chars) in the local language.
+    writeup: `This collection of images is a chronicle of visits to the river at various points, made over ten years. In my travels across Assam and Arunachal Pradesh, I have always found myself never too far from its expansive landscapes. 
     
-    The hardship they had to face since birth, the girl child is more vulnerable to atrocities and trafficking. An old man returning from his work to his char situated in Kamrup rural. This is his routine for the past 21 years. `,
+    Growing up in Tinsukia, it was a thirty-minute drive to the Dibru-Saikhowa National Park which became our de-facto day out and also where my family would take their guests first. News of the gas blowout near the park last year was gut-wrenching to live with since I knew many boat operators and guides whose families depended upon the river for their livelihoods. These images speak to what the river means to me but more importantly for the people who arrive at it daily. 
+    
+    Sustenance, transport, tourism and devotion each greatly direct the lives of many at its shores, this is an assortment of visuals in homage to the Brahmaputra and its people. The river is life itself.
+    `,
     bio: `I grew up in Assam, India and moved to Bombay to study mass media - where I learned more about photography and visual practices while beginning to work on my own self-funded projects. In addition to a bachelor’s degree in Mass Media (BMM) from Jai Hind College, Mumbai University, I also have diplomas in filmmaking, photography, and sound production from NYFA, Udaan School of Photography and SRFTI respectively.
     
     My work revolves around observational and journalistic stories such as the documentation of disabled artists in India and an ongoing long-term project about mass migration in Uttarakhand. I am a visual artist working with photography and video mixed as conduits for my creative expression; with interest in further blurring the line between the two mediums - as far as is possible while each complements the other. I am continually looking to improve as a storyteller and delve deeper into the use of expressionist and abstract methods in that pursuit`,
@@ -57,7 +60,7 @@ const newData = [
     title: `Prayers`,
     writeup: `The River is sacred to Hindus and pilgrims who travel thousands of miles to pray and bathe themselves in the river as part of a purification ritual. Different rituals take place, mainly in the morning and in the evening. Standing in a river and praying release energy from your body. 
     
-    It is believed that these rituals of standing in the water and praying to detoxify the body and mind and provides mental calmness. It also enhances immunity, infuses energy and reduces the frequency of anger, and all other negative emotions. `,
+    It is believed that these rituals of standing in the water and praying to detoxify the body and mind, provides mental calmness. It also enhances immunity, infuses energy and reduces the frequency of anger, and all other negative emotions. `,
     bio: `I am Ayanava Sil a resident of Kolkata, India. By education I hold a degree of Master Of Business Administration in Marketing. Photography to me is an exemption to see things differently. I am a Street and Documentary photographer, with an objective of documenting everyday life. The uncertainty and the suspense drives me the most towards these genres of Photography. Documenting people over the years has provided me with the invaluable opportunity to explore the unknown and to embrace the conglomerate realities of people.`,
     twitter: "@ayanava",
     instagram: "ayanava3",
