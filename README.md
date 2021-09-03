@@ -74,8 +74,12 @@ The Project is currently hosted at [brahmaputra-exhibition.com](http://brahmaput
    ```sh
    npm run dev
    ```
+5. Running Database, in a new terminal/shell
+   ```sh
+   mongod
+   ```
 
-5. Open the following link in your browser. Ensure you have allowed cookies and required permissions.
+6. Open the following link in your browser. Ensure you have allowed cookies and required permissions.
     http://localhost:3000/
 
 ## Structure
